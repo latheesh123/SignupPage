@@ -15,3 +15,5 @@ Alertdialog
 layout inflater
 
 Email and Text validations included when signup
+
+

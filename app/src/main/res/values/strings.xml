@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PrestoSignup</string>
+    <string name="regsignup">SIGNUP</string>
+    <string name="signup">SIGNUP</string>
+    <string name="phonenumber">Phone</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="email">Email</string>
+    <string name="submit">SUBMIT</string>
+</resources>

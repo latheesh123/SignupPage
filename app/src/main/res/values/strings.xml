@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PrestoSignup</string>
+    <string name="app_name">Signup</string>
     <string name="regsignup">SIGNUP</string>
     <string name="signup">SIGNUP</string>
     <string name="phonenumber">Phone</string>

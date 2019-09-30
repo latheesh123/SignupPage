@@ -16,5 +16,5 @@ layout inflater
 
 Email and Text validations included when signup
 
-![](name-of-giphy.gif)
+![](ezgif-4-ac435225fdf6.gif)
 
